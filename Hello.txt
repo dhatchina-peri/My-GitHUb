@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-
-=======
-Hello! This is a test file.
-My name is Dhatchina.
-This file should now have content visible on GitHub.
->>>>>>> 087fe0f2a157e1e3429e6ed8588e5c2df8a49156
